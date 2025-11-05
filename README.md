@@ -11,25 +11,7 @@ Conan Chatbot
 ## 📁 디렉토리 구조
 ```bash
 project-conan/
- ├── coding_list_llm.html
  ├── coding_list_rms.html
- ├── llm/
- │   ├── assets/
- │   │   ├── css/
- │   │   │   ├── default.css
- │   │   │   ├── font.css
- │   │   │   ├── reset.css
- │   │   │   ├── layout.css
- │   │   │   ├── component.css
- │   │   │   └── contents.css
- │   │   ├── fonts/
- │   │   ├── img/
- │   │   └── js/
- │   └── html/
- │       ├── home.html
- │       ├── search.html
- │       ├── chat.html
- │       └── chat_guide.html
  ├── rms/
  │   ├── assets/
  │   │   ├── css/
